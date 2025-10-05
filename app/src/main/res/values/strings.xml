@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TentuoiApp</string>
+    <string name="title">THỰC HÀNH 01</string>
+    <string name="hint_name">Họ và tên</string>
+    <string name="hint_age">Tuổi</string>
+    <string name="btn_check">Kiểm tra</string>
+    <string name="result_placeholder"></string>
+</resources>
